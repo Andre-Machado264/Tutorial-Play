@@ -1,0 +1,5 @@
+03 Out 2014 17:12:10,978 INFO  ~ Starting /home/andreoliveira/ProjPlay/Projeto tutorial/yabe
+03 Out 2014 17:12:11,460 WARN  ~ You're running Play! in DEV mode
+03 Out 2014 17:12:11,521 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+03 Out 2014 17:12:18,028 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+03 Out 2014 17:12:18,793 INFO  ~ Application 'yabe' is now started !

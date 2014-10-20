@@ -1,0 +1,10 @@
+.gitignore~
+README.md~
+/bin
+.classpath
+.project
+/tmp
+/modules
+/lib
+/test-result
+/logs
