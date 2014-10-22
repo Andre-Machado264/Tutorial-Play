@@ -27,3 +27,10 @@ GET     /captcha                                Application.captcha
 
 # Import Secure routes
 *      /                  module:secure
+
+GET     /admin/myPosts/{id}                 Admin.form
+GET     /admin/new                          Admin.form
+
+POST    /admin/myPosts/{id}                 Admin.save
+POST    /admin/new                          Admin.save
+
