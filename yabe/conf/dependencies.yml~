@@ -1,4 +1,7 @@
 # Application dependencies
 
 require:
-    - play -> crud
+    - play
+	- crud
+	- secure
+	- cobertura 2.5
