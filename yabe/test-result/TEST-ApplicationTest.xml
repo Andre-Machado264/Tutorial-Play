@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<testsuite failures="0" time="0.018" errors="0" skipped="0" tests="2" name="ApplicationTest">
-  <testcase classname="ApplicationTest" name="testThatIndexPageWorks" time="0.014">
+<testsuite failures="0" time="0.021" errors="0" skipped="0" tests="2" name="ApplicationTest">
+  <testcase classname="ApplicationTest" name="testThatIndexPageWorks" time="0.017">
       </testcase>
   <testcase classname="ApplicationTest" name="testAdminSecurity" time="0.004">
       </testcase>
